@@ -1,0 +1,15 @@
+[submodule "Snake"]
+	path = Snake
+	url = https://github.com/Fatpandac/Snake.git
+[submodule "Tetris"]
+	path = Tetris
+	url = https://github.com/Fatpandac/Tetris.git
+[submodule "LifeOfGame"]
+	path = LifeOfGame
+	url = https://github.com/Fatpandac/LifeOfGame.git
+[submodule "2048"]
+	path = 2048
+	url = https://github.com/Fatpandac/2048.git
+[submodule "Minesweeper"]
+	path = Minesweeper
+	url = https://github.com/Fatpandac/Minesweeper.git
